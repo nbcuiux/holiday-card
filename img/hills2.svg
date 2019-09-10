@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="70px" viewBox="0 0 500 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>hills2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50.7850111%" cy="100%" fx="50.7850111%" fy="100%" r="100%" gradientTransform="translate(0.507850,1.000000),scale(0.140000,1.000000),rotate(-89.999990),scale(1.000000,1.589991),translate(-0.507850,-1.000000)" id="radialGradient-1">
+            <stop stop-color="#4F8EDB" offset="0%"></stop>
+            <stop stop-color="#DBE8F7" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="14.4785449%" cy="100%" fx="14.4785449%" fy="100%" r="97.0603868%" gradientTransform="translate(0.144785,1.000000),scale(0.487805,1.000000),rotate(-90.000000),scale(1.000000,1.359261),translate(-0.144785,-1.000000)" id="radialGradient-2">
+            <stop stop-color="#4F8EDB" offset="0%"></stop>
+            <stop stop-color="#DBE8F7" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="hills2" fill-rule="nonzero">
+            <path d="M375,19 C338,19 292.5,0 250,0 C207.5,0 162,19 125,19 C88,19 42.5,0 0,0 L0,70 L250,70 L500,70 L500,0 C457.5,0 412,19 375,19 Z" id="Shape" fill="url(#radialGradient-1)"></path>
+            <path d="M125,19 C88,19 42.5,0 0,0 L0,70 L125,70 C149.666667,36 149.666667,19 125,19 Z" id="Shape-Copy" fill="url(#radialGradient-2)"></path>
+        </g>
+    </g>
+</svg>
